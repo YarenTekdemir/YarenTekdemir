@@ -1,4 +1,3 @@
-# YarenTekdemir-
 # 👋 Hi, I'm Yaren Tekdemir
 
 I'm a passionate full-stack developer who loves building clean, functional, and user-friendly web applications.  
